@@ -1,0 +1,28 @@
+img {
+  width: 300px !important;
+  padding-bottom: 5px;
+  margin-right: 10px;
+  border-radius: 5px !important;
+}
+.card-details {
+  background-color: rgb(245, 105, 105);
+  border-radius: 7px;
+}
+.name {
+  font-size: 28px;
+  color: blue;
+  font-weight: 500;
+}
+.country {
+  font-size: 22px;
+  color: rgb(37, 108, 72);
+}
+.city {
+  font-size: 20px;
+  color: rgb(50, 50, 128);
+}
+.price {
+  font-size: 22px;
+  color: black;
+  font-weight: 500;
+}
